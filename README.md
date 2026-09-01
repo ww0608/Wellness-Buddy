@@ -1,6 +1,13 @@
 # Wellness Buddy: All-in-One Health Tracker
 Wellness Buddy is a comprehensive Python GUI application developed to promote healthy lifestyles in alignment with UN Sustainable Development Goal 3: Good Health and Well-Being. It provides a centralized platform for users to monitor physical health, nutrition, sleep, and emotional wellness.
 
+# Team Details
+- **Team Members**:
+  - Teh Feng Yue
+  - Teh Wen Wen
+  - Woon Kai-En
+  - Krithikaa Kumar
+
 # Core Features
 - Meal Tracker: Log daily meals and calculate total calorie intake. Features data validation to ensure calorie values are numeric.
 - Sleep Tracker: Calculate total sleep duration using 24-hour format inputs. Includes logic to handle sleep cycles that cross over midnight.
